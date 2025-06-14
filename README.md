@@ -1,7 +1,4 @@
 
-markdown
-Copy
-Edit
 # 💸 Paytm Project – Payment & P2P Transfer App
 
 A full-stack **Next.js** (TypeScript) project that simulates core functionalities of a payment platform like Paytm. This app includes **on-ramp transactions**, **P2P transfers**, a custom **bank webhook server**, and a clean, responsive UI.
